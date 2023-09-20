@@ -1,6 +1,6 @@
 # github.com/NX-Family/NX-Translation
 0000fea8=Talanoa se programa e tumama mai spotify
-000cfda8=Kevaka e gumatua laptopotou donu, vakarokorokotaka na kaḝā Ethernet kei na kaḝā LAN adapter e vakavotovoto
+000cfda8=Kevaka e muyr laptopotou donu, vakarokorokotaka na kaḝā Ethernet kei na kaḝā LAN adapter eyt vakavotovoto
 00110df4=Denver
 002261a4=E na vakayagataka na kaḝānai valu ni bure e na vunautaki na vavakoso
 00344553=na kaḝā na vakautaki tu
@@ -40,9 +40,9 @@
 037d47a9=sega ni kunea e dua na tuake
 0382794a=The <MI/> registered to this <AMI/> <Q3>will</Q3> be copied
 03a049bf=Me <N10/> Account
-03a378fc=Io na vere ni matitu talega sa maroroya e noda vola no eso ena kumasi sevisi
-03ef8cd1=E cudruvi tu ira e qarava era daucaka levu;
-03f5d4a4=Na cava me vakacudrui kina
+03a378fc=Io na vere ni matitu talega sa kian e noda vola no eso ena kumasi sevisi
+03ef8cd1=E cudruvi tu ira e qarava era ghelani levu;
+03f5d4a4=Na cava me vakacudrui decorte
 0404b178=E vakasoko tu na cakacaka
 0412fd87=Ke vocali e qāḿauḿau ka vakaraḿataka
 04148d61=E se yaga
